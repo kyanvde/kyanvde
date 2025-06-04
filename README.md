@@ -1,16 +1,13 @@
-## Hi there 👋
+# Kyan Van den Eynde - @kyanvde
 
-<!--
-**kyanvde/kyanvde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently studying Computer Science at [University of Antwerp](https://www.uantwerpen.be/en/).
 
-Here are some ideas to get you started:
+[**View my resume**]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![discord](https://img.shields.io/badge/-@kyanvde-161616?style=flat-square&labelColor=161616&logo=Discord&logoColor=white&color=161616)
+
+## My Experience
+WIP
+
+## My Projects
+WIP
